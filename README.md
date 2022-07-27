@@ -3,9 +3,9 @@
 I'm a JavaScript developer whose main focus has been to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the MERN stack to develop my projects but I also enjoy discovering new technologies whenever I get the chance to do so.
 
 ## Technologies I feel more confortable around :rocket:
-<img alt="html" src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white" />
+<div><img alt="html" src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow.svg?logo=javascript&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow.svg?logo=javascript&logoColor=white"></div>
 <br>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
