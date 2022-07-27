@@ -7,10 +7,12 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow.svg?logo=javascript&logoColor=white"></div>
 <br>
+<div>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?logo=react&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+ </div>
 <br>
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
 <br>
@@ -22,6 +24,7 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
 <br>
 
 ## Other technologies I've been twinkering with lately :zap:
+<div>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
  <img alt="next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&logoColor=white" >
  <img alt="svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white">
@@ -30,7 +33,7 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black.svg?logo=mysql&logoColor=white">
 <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-
+</div>
 
 ## Projects I've recently worked on :fire:
 | <b>🦜 Projects</b>    |  <b>📚 Repo</b>    | <b>💻 Demo</b>   |
