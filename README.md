@@ -12,11 +12,18 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?logo=react&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
  </div>
+ <div>
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
+ </div>
+ <div>
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-039BE5.svg?&logo=Firebase&logoColor=white" />
+ </div>
+ <div>
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white" />
+ </div>
+ <div>
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092.svg?logo=styled-components&logoColor=white" />
-
+</div>
 ## Other technologies I've been twinkering with lately :zap:
 <div>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
