@@ -24,6 +24,7 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
  <div>
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092.svg?logo=styled-components&logoColor=white" />
 </div>
+
 ## Other technologies I've been twinkering with lately :zap:
 <div>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
