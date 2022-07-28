@@ -1,4 +1,4 @@
-# Hello there ! Welcome on my GitHub profile :wave:
+# Hello there ! Welcome to my GitHub profile :wave:
 
 I'm a JavaScript developer whose main focus has been to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the MERN stack to develop my projects but I also enjoy discovering new technologies whenever I get the chance to do so.
 
