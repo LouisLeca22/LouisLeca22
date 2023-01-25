@@ -1,6 +1,6 @@
 # Hello there ! Welcome to my GitHub profile :wave:
 
-I'm a JavaScript developer whose main focus has been to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the MERN stack to develop my projects but I also enjoy discovering new technologies whenever I get the chance to do so.
+I'm a JavaScript developer whose main focus has been to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the MERN stack to develop my projects but I also enjoy discovering new technologies whenever I get the chance to do so. Recently I've been focusing a lot on learning Php and I have also created a few full-stack projects with Laravel.
 
 ## Technologies I feel more confortable around :rocket:
 <div><img alt="html" src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white" />
@@ -13,6 +13,7 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
  </div>
  <div>
+ <div>
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
  </div>
  <div>
@@ -24,24 +25,29 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
  <div>
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092.svg?logo=styled-components&logoColor=white" />
 </div>
+ <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black.svg?logo=mysql&logoColor=white">
+ </div>
 
 ## Other technologies I've been twinkering with lately :zap:
 <div>
+<img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
+<img alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
  <img alt="next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&logoColor=white" >
  <img alt="svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white">
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87.svg?logo=apollo-graphql&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098.svg?logo=graphql&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black.svg?logo=mysql&logoColor=white">
 <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+
 </div>
 
 ## Projects I've recently worked on :fire:
 | <b>🦜 Projects</b>    |  <b>📚 Repo</b>    | <b>💻 Demo</b>   |
 | ------------- |:-------------:| -----:|
 | E-commerce app built with svelte and strapi | <a href="https://github.com/LouisLeca22/deco-maison"><img alt="deco-maison" src="https://img.shields.io/static/v1?label=&message=deco--maison&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://deco-maison.netlify.app/"><img alt="deco-maison" src="https://img.shields.io/static/v1?label=&message=deco--maison&color=343b41&logo=netlify&logoColor=FFFFFF&labelColor=000605"/></a>  |
-| Job Tracking App built with the MERN Stack. | <a href="https://github.com/LouisLeca22/empleo-sentido"><img alt="empleo-sentido" src="https://img.shields.io/static/v1?label=&message=empleo--sentido&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://empleo-sentido.herokuapp.com/"><img alt="empleo-sentido" src="https://img.shields.io/static/v1?label=&message=empleo--sentido&color=343b41&logo=heroku&logoColor=FFFFFF&labelColor=000605"/></a>  |
+| Job Tracking App built with the MERN Stack. | <a href="https://github.com/LouisLeca22/empleo-sentido"><img alt="empleo-sentido" src="https://img.shields.io/static/v1?label=&message=empleo--sentido&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://empleo-sentido.onrender.com/"><img alt="empleo-sentido" src="https://img.shields.io/static/v1?label=&message=empleo--sentido&color=343b41&logo=heroku&logoColor=FFFFFF&labelColor=000605"/></a>  |
 | Green youtube-clone built with the MERN Stack and Firebase. | <a href="https://github.com/LouisLeca22/permacultube"><img alt="permacultube" src="https://img.shields.io/static/v1?label=&message=permacultube&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://permacultube.vercel.app/"><img alt="permacultube" src="https://img.shields.io/static/v1?label=&message=permacultube&color=343b41&logo=vercel&logoColor=FFFFFF&labelColor=000605"/></a>  |
 | House marketplace built with React and Firebase. | <a href="https://github.com/LouisLeca22/mon-chez-moi"><img alt="mon-chez-moi" src="https://img.shields.io/static/v1?label=&message=mon--chez--moi&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://mon-chez-moi.vercel.app/"><img alt="mon-chez-moi" src="https://img.shields.io/static/v1?label=&message=mon--chez--moi&color=343b41&logo=vercel&logoColor=FFFFFF&labelColor=000605"/></a>  |
 | Multilingual admin dashboard built with React and i18next. | <a href="https://github.com/LouisLeca22/admin-dashboard"><img alt="admin-dashboard" src="https://img.shields.io/static/v1?label=&message=admin--dashboard&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://dashboard-4886f.web.app/"><img alt="admin-dashboard" src="https://img.shields.io/static/v1?label=&message=admin--dashboard&color=343b41&logo=firebase&logoColor=FFFFFF&labelColor=000605"/></a>  |
