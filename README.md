@@ -31,7 +31,7 @@ I'm a JavaScript developer whose main focus has been to build efficient, intuiti
 
 ## Other technologies I've been twinkering with lately :zap:
 <div>
-<img alt="docker" src="(https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=whit" />
+<img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />
 <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
 <img alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
