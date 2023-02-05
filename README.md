@@ -1,6 +1,6 @@
 # Hello there ! Welcome to my GitHub profile :wave:
 
-I'm a JavaScript developer whose main focus has been to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the MERN stack to develop my projects but I also enjoy discovering new technologies whenever I get the chance to do so. Recently I've been focusing a lot on learning Php and I have also created a few full-stack projects with Laravel.
+I'm an aspiring web developer whose main focus is to learn how to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the JavaScript ecosystem but I also enjoy discovering new technologies whenever I get the chance to do so. Recently I've been changing gears and move towards Php and Laravel to brush up my backend skills.
 
 ## Technologies I feel more confortable around :rocket:
 <div><img alt="html" src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white" />
