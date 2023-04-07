@@ -1,53 +1,54 @@
 # Hello there ! Welcome to my GitHub profile :wave:
 
-I'm an aspiring web developer whose main focus is to learn how to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the JavaScript ecosystem but I also enjoy discovering new technologies whenever I get the chance to do so. Recently I've been changing gears and move towards Php and Laravel to brush up my backend skills.
+I'm an aspiring web developer whose main focus is to learn how to build efficient, intuitive and elegant web applications. As for the tools that I use, I've been mainly interested in the JavaScript ecosystem but I also enjoy discovering new technologies whenever I get the chance to do so. Recently I've been changing gears and move towards Php to brush up my backend skills.
 
 ## Technologies I feel more confortable around :rocket:
 <div><img alt="html" src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow.svg?logo=javascript&logoColor=white"></div>
 <div>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?logo=react&logoColor=white" />
+<img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
- </div>
- <div>
- <div>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
- </div>
- <div>
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-039BE5.svg?&logo=Firebase&logoColor=white" />
- </div>
- <div>
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white" />
- </div>
- <div>
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092.svg?logo=styled-components&logoColor=white" />
 </div>
+<div>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black.svg?logo=mysql&logoColor=white">
+</div>
+
+ <div>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?logo=react&logoColor=white" />
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
+ </div>
+
+
+ <div>
+<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092.svg?logo=styled-components&logoColor=white" />
  </div>
 
 ## Other technologies I've been twinkering with lately :zap:
 <div>
-<img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />
-<img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
-<img alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
+<img alt="docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white" />
+<img alt="laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
+<img alt="symfony" src="https://img.shields.io/badge/Symfony-black.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
  <img alt="next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&logoColor=white" >
- <img alt="svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white">
+ <img alt="svelte" src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white">
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87.svg?logo=apollo-graphql&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098.svg?logo=graphql&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-<img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img alt="tailwind" src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
 
 </div>
 
 ## Projects I've recently worked on :fire:
 | <b>🦜 Projects</b>    |  <b>📚 Repo</b>    | <b>💻 Demo</b>   |
 | ------------- |:-------------:| -----:|
-| E-commerce app built with svelte and strapi | <a href="https://github.com/LouisLeca22/deco-maison"><img alt="deco-maison" src="https://img.shields.io/static/v1?label=&message=deco--maison&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://deco-maison.netlify.app/"><img alt="deco-maison" src="https://img.shields.io/static/v1?label=&message=deco--maison&color=343b41&logo=netlify&logoColor=FFFFFF&labelColor=000605"/></a>  |
+| Interactive map built with React Typescript and Redux | <a href="https://github.com/LouisLeca22/normandy-discover"><img alt="normandy-discover" src="https://img.shields.io/static/v1?label=&message=normandy--discover&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |   <a href="https://normandy-discover.web.app/"><img alt="normandy-discover" src="https://img.shields.io/static/v1?label=&message=normandy--discover&color=343b41&logo=firebase&logoColor=FFFFFF&labelColor=000605"/></a>  |
+| E-commerce app built with Svelte and Strapi | <a href="https://github.com/LouisLeca22/deco-maison"><img alt="deco-maison" src="https://img.shields.io/static/v1?label=&message=deco--maison&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://deco-maison.netlify.app/"><img alt="deco-maison" src="https://img.shields.io/static/v1?label=&message=deco--maison&color=343b41&logo=netlify&logoColor=FFFFFF&labelColor=000605"/></a>  |
 | Job Tracking App built with the MERN Stack. | <a href="https://github.com/LouisLeca22/empleo-sentido"><img alt="empleo-sentido" src="https://img.shields.io/static/v1?label=&message=empleo--sentido&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://empleo-sentido.onrender.com/"><img alt="empleo-sentido" src="https://img.shields.io/static/v1?label=&message=empleo--sentido&color=343b41&logo=heroku&logoColor=FFFFFF&labelColor=000605"/></a>  |
 | Green youtube-clone built with the MERN Stack and Firebase. | <a href="https://github.com/LouisLeca22/permacultube"><img alt="permacultube" src="https://img.shields.io/static/v1?label=&message=permacultube&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://permacultube.vercel.app/"><img alt="permacultube" src="https://img.shields.io/static/v1?label=&message=permacultube&color=343b41&logo=vercel&logoColor=FFFFFF&labelColor=000605"/></a>  |
 | House marketplace built with React and Firebase. | <a href="https://github.com/LouisLeca22/mon-chez-moi"><img alt="mon-chez-moi" src="https://img.shields.io/static/v1?label=&message=mon--chez--moi&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://mon-chez-moi.vercel.app/"><img alt="mon-chez-moi" src="https://img.shields.io/static/v1?label=&message=mon--chez--moi&color=343b41&logo=vercel&logoColor=FFFFFF&labelColor=000605"/></a>  |
