@@ -33,7 +33,7 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
 <div>
 <img alt="docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white" />
 <img alt="laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
-<img alt="symfony" src="https://img.shields.io/badge/Symfony-black.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
+<img alt="symfony" src="https://img.shields.io/static/v1?label=&message=symfony&color=black&logo=symfony&logoColor=FFFFFF&labelColor=000605"/>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
  <img alt="next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&logoColor=white" >
  <img alt="svelte" src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white">
