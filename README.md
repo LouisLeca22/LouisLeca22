@@ -66,6 +66,9 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
 <a href="https://louis-leca.web.app" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000.svg?logo=google-chrome&logoColor=white" alt="Website" />
 </a>
+<a href="https://www.youtube.com/@Weboscopie" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
 ## Check out my portfolio :star:
 
