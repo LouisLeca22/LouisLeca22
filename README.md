@@ -16,7 +16,7 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
 <div>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-</div
+</div>
  <div>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?logo=react&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
@@ -36,7 +36,7 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
 
 
 ## Projects I've recently worked on :fire:
-|
+
 <b>🦜 Projects</b>    |  <b>📚 Repo</b>    | <b>💻 Demo</b>   |
 | ------------- |:-------------:| -----:|
 | Online travel booking app built with Next.js and TypeScript. | <a href="https://github.com/LouisLeca22/se-poser"><img alt="se-poser" src="https://img.shields.io/static/v1?label=&message=se--poser&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a> |  <a href="https://se-poser.vercel.app/"><img alt="se-poser" src="https://img.shields.io/static/v1?label=&message=se--poser&color=343b41&logo=vercel&logoColor=FFFFFF&labelColor=000605"/></a>  |
