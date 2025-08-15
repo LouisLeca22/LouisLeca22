@@ -60,8 +60,12 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
 
 ## Contact me :speech_balloon:
 
-<a href="https://www.linkedin.com/in/louis-leca/" target="_blank"><img src="assets/in.png" alt="LinkedIn" width="40"></a>
-<a href="https://louis-leca.web.app" target="_blank"><img src="assets/www.png" alt="web" width="40"></a>
+<a href="https://www.linkedin.com/in/louis-leca/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://louis-leca.web.app" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000.svg?logo=google-chrome&logoColor=white" alt="Website" />
+</a>
 
 ## Check out my portfolio :star:
 
