@@ -7,20 +7,24 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow.svg?logo=javascript&logoColor=white"></div>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
+
 <div>
  <img alt="next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&logoColor=white" >
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-039BE5.svg?&logo=Firebase&logoColor=white" />
 </div>
+
 <div>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 </div>
+
  <div>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?logo=react&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
  </div>
+ 
  <div>
  <img alt="tailwind" src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white" />
