@@ -8,39 +8,30 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow.svg?logo=javascript&logoColor=white"></div>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
 <div>
-<img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
+ <img alt="next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&logoColor=white" >
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-039BE5.svg?&logo=Firebase&logoColor=white" />
-<img alt="next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&logoColor=white" >
 </div>
 <div>
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
- <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black.svg?logo=mysql&logoColor=white">
-</div>
-
+</div
  <div>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?logo=react&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&logoColor=white" />
  </div>
-
-
  <div>
+ <img alt="tailwind" src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092.svg?logo=styled-components&logoColor=white" />
  </div>
 
 ## Other technologies I've been twinkering with lately :zap:
 <div>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />
-<img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white" />
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white" />
+ <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098.svg?logo=graphql&logoColor=white" />
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white" />
 </div>
 
 
