@@ -30,9 +30,9 @@ I'm an aspiring web developer whose main focus is to learn how to build efficien
  </div>
  
  <div>
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+ <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white">
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white" />
-  
+ 
  </div>
 
 ## Other technologies I've been twinkering with lately :zap:
